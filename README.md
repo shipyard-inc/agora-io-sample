@@ -27,5 +27,5 @@
 # Run
 
 ```bash
-$ APP_ID={{YOUR_APP_ID}} APP_CERTIFICATE={{YOUR_APP_CERTIFICATE}}  yarn start
+$ APP_ID={{c0090fc2bd394494bf5185269b6c85af}} APP_CERTIFICATE={{ecd8995cfa1d4f38817253cfa51f5456}}  yarn start
 ```
